@@ -1,0 +1,8 @@
+E:\code\ULLOG04\bin\Debug\ULLOG04.exe.config
+E:\code\ULLOG04\bin\Debug\ULLOG04.exe
+E:\code\ULLOG04\bin\Debug\ULLOG04.pdb
+E:\code\ULLOG04\obj\Debug\ULLOG04.csprojResolveAssemblyReference.cache
+E:\code\ULLOG04\obj\Debug\ULLOG04.frmConvFile.resources
+E:\code\ULLOG04\obj\Debug\ULLOG04.csproj.GenerateResource.Cache
+E:\code\ULLOG04\obj\Debug\ULLOG04.exe
+E:\code\ULLOG04\obj\Debug\ULLOG04.pdb

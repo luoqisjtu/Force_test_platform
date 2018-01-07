@@ -1,0 +1,8 @@
+D:\code\ULAI06\bin\Debug\ULAI06.exe.config
+D:\code\ULAI06\bin\Debug\ULAI06.exe
+D:\code\ULAI06\bin\Debug\ULAI06.pdb
+D:\code\ULAI06\obj\Debug\ULAI06.csprojResolveAssemblyReference.cache
+D:\code\ULAI06\obj\Debug\ULAI06.frmStatusDisplay.resources
+D:\code\ULAI06\obj\Debug\ULAI06.csproj.GenerateResource.Cache
+D:\code\ULAI06\obj\Debug\ULAI06.exe
+D:\code\ULAI06\obj\Debug\ULAI06.pdb

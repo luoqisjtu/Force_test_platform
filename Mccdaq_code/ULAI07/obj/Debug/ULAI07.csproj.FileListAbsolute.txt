@@ -1,0 +1,8 @@
+E:\code\ULAI07\bin\Debug\ULAI07.exe.config
+E:\code\ULAI07\bin\Debug\ULAI07.exe
+E:\code\ULAI07\bin\Debug\ULAI07.pdb
+E:\code\ULAI07\obj\Debug\ULAI07.csprojResolveAssemblyReference.cache
+E:\code\ULAI07\obj\Debug\ULAI07.frmAnalogTrig.resources
+E:\code\ULAI07\obj\Debug\ULAI07.csproj.GenerateResource.Cache
+E:\code\ULAI07\obj\Debug\ULAI07.exe
+E:\code\ULAI07\obj\Debug\ULAI07.pdb

@@ -1,0 +1,16 @@
+D:\code\ULAI01\bin\Debug\ULAI01.exe.config
+D:\code\ULAI01\obj\Debug\ULAI01.csprojResolveAssemblyReference.cache
+D:\code\ULAI01\obj\Debug\ULAI01.frmDataDisplay.resources
+D:\code\ULAI01\obj\Debug\ULAI01.csproj.GenerateResource.Cache
+D:\code\ULAI01\bin\Debug\ULAI01.exe
+D:\code\ULAI01\bin\Debug\ULAI01.pdb
+D:\code\ULAI01\obj\Debug\ULAI01.exe
+D:\code\ULAI01\obj\Debug\ULAI01.pdb
+E:\11code\ULAI01\bin\Debug\ULAI01.exe.config
+E:\11code\ULAI01\bin\Debug\ULAI01.exe
+E:\11code\ULAI01\bin\Debug\ULAI01.pdb
+E:\11code\ULAI01\obj\Debug\ULAI01.csprojResolveAssemblyReference.cache
+E:\11code\ULAI01\obj\Debug\ULAI01.frmDataDisplay.resources
+E:\11code\ULAI01\obj\Debug\ULAI01.csproj.GenerateResource.Cache
+E:\11code\ULAI01\obj\Debug\ULAI01.exe
+E:\11code\ULAI01\obj\Debug\ULAI01.pdb

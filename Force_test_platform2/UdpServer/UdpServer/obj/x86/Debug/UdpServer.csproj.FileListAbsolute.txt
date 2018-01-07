@@ -1,0 +1,10 @@
+E:\luoqi\code11\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+E:\luoqi\code11\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+E:\luoqi\code11\UdpServer\UdpServer\obj\x86\Debug\UdpServer.csprojResolveAssemblyReference.cache
+E:\luoqi\code11\UdpServer\UdpServer\obj\x86\Debug\UdpServer.exe
+E:\luoqi\code11\UdpServer\UdpServer\obj\x86\Debug\UdpServer.pdb
+E:\luoqi\Code_Learning\UdpServer\UdpServer\obj\x86\Debug\UdpServer.exe
+E:\luoqi\Code_Learning\UdpServer\UdpServer\obj\x86\Debug\UdpServer.pdb
+E:\luoqi\Code_Learning\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+E:\luoqi\Code_Learning\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+E:\luoqi\Code_Learning\UdpServer\UdpServer\obj\x86\Debug\UdpServer.csprojResolveAssemblyReference.cache

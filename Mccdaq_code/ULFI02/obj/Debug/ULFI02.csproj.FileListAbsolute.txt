@@ -1,0 +1,8 @@
+E:\code\ULFI02\bin\Debug\ULFI02.exe.config
+E:\code\ULFI02\bin\Debug\ULFI02.exe
+E:\code\ULFI02\bin\Debug\ULFI02.pdb
+E:\code\ULFI02\obj\Debug\ULFI02.csprojResolveAssemblyReference.cache
+E:\code\ULFI02\obj\Debug\ULFI02.frmShowFileData.resources
+E:\code\ULFI02\obj\Debug\ULFI02.csproj.GenerateResource.Cache
+E:\code\ULFI02\obj\Debug\ULFI02.exe
+E:\code\ULFI02\obj\Debug\ULFI02.pdb

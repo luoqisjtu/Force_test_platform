@@ -1,0 +1,8 @@
+D:\code\DaqSetTrigger01\bin\Debug\DaqSetTrigger01.exe.config
+D:\code\DaqSetTrigger01\bin\Debug\DaqSetTrigger01.exe
+D:\code\DaqSetTrigger01\bin\Debug\DaqSetTrigger01.pdb
+D:\code\DaqSetTrigger01\obj\Debug\DaqSetTrigger01.csprojResolveAssemblyReference.cache
+D:\code\DaqSetTrigger01\obj\Debug\DaqSetTrigger01.frmStatusDisplay.resources
+D:\code\DaqSetTrigger01\obj\Debug\DaqSetTrigger01.csproj.GenerateResource.Cache
+D:\code\DaqSetTrigger01\obj\Debug\DaqSetTrigger01.exe
+D:\code\DaqSetTrigger01\obj\Debug\DaqSetTrigger01.pdb

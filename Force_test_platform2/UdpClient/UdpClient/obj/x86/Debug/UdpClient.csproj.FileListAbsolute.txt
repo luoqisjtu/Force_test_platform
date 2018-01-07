@@ -1,0 +1,9 @@
+E:\luoqi\code11\UdpClient\UdpClient\bin\Debug\UdpClient.exe
+E:\luoqi\code11\UdpClient\UdpClient\bin\Debug\UdpClient.pdb
+E:\luoqi\code11\UdpClient\UdpClient\obj\x86\Debug\UdpClient.exe
+E:\luoqi\code11\UdpClient\UdpClient\obj\x86\Debug\UdpClient.pdb
+E:\luoqi\Code_Learning\UdpClient\UdpClient\obj\x86\Debug\UdpClient.exe
+E:\luoqi\Code_Learning\UdpClient\UdpClient\obj\x86\Debug\UdpClient.pdb
+E:\luoqi\Code_Learning\UdpClient\UdpClient\bin\Debug\UdpClient.exe
+E:\luoqi\Code_Learning\UdpClient\UdpClient\bin\Debug\UdpClient.pdb
+E:\luoqi\Code_Learning\UdpClient\UdpClient\obj\x86\Debug\UdpClient.csprojResolveAssemblyReference.cache

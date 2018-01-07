@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULMM03", "ULMM03.csproj", "{43531211-5AD3-4E6E-BD12-4C6E2A43D703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43531211-5AD3-4E6E-BD12-4C6E2A43D703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43531211-5AD3-4E6E-BD12-4C6E2A43D703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43531211-5AD3-4E6E-BD12-4C6E2A43D703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43531211-5AD3-4E6E-BD12-4C6E2A43D703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

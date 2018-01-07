@@ -1,0 +1,8 @@
+E:\code\ULLOG03\bin\Debug\ULLOG03.exe.config
+E:\code\ULLOG03\bin\Debug\ULLOG03.exe
+E:\code\ULLOG03\bin\Debug\ULLOG03.pdb
+E:\code\ULLOG03\obj\Debug\ULLOG03.csprojResolveAssemblyReference.cache
+E:\code\ULLOG03\obj\Debug\ULLOG03.frmLoggerData.resources
+E:\code\ULLOG03\obj\Debug\ULLOG03.csproj.GenerateResource.Cache
+E:\code\ULLOG03\obj\Debug\ULLOG03.exe
+E:\code\ULLOG03\obj\Debug\ULLOG03.pdb

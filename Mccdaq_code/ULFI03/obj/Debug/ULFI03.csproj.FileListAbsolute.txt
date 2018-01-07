@@ -1,0 +1,8 @@
+E:\code\ULFI03\bin\Debug\ULFI03.exe.config
+E:\code\ULFI03\bin\Debug\ULFI03.exe
+E:\code\ULFI03\bin\Debug\ULFI03.pdb
+E:\code\ULFI03\obj\Debug\ULFI03.csprojResolveAssemblyReference.cache
+E:\code\ULFI03\obj\Debug\ULFI03.frmFilePreTrig.resources
+E:\code\ULFI03\obj\Debug\ULFI03.csproj.GenerateResource.Cache
+E:\code\ULFI03\obj\Debug\ULFI03.exe
+E:\code\ULFI03\obj\Debug\ULFI03.pdb
